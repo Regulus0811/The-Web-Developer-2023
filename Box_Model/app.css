@@ -20,8 +20,14 @@ h1 {
 #two {
   background-color: #3ae;
   border-color: #ffdcb2;
+  border-width: 3px;
+  border-style: dashed;
+  border-left-width: 8px;
 }
 
 #three {
   background-color: #ffde45;
+  border: 4px solid black;
+  border-left-style: dotted;
+  border-radius: 50%;
 }
