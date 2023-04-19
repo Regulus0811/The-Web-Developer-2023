@@ -1,0 +1,27 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: #eae;
+}
+
+h1 {
+  background-color: pink;
+  width: 100px;
+}
+
+#one {
+  background-color: #45d;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  box-sizing: border-box;
+}
+
+#two {
+  background-color: #3ae;
+  border-color: #ffdcb2;
+}
+
+#three {
+  background-color: #ffde45;
+}
