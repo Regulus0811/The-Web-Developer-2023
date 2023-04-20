@@ -1,34 +1,34 @@
-section {
+html {
+  font-size: 30px;
+}
+
+#percentages {
   background-color: #3ae;
   width: 800px;
   height: 800px;
 }
 
-div {
+#percentages div {
   background-color: #43d;
   width: 70%;
   height: 20%;
 }
 
-h1 {
-  font-size: 40px;
-}
-
-h2 {
-  font-size: 5em;
+#ems h2 {
+  font-size: 2em;
   margin-left: 1em;
 }
 
-h3 {
+#ems h3 {
   font-size: 1.5em;
 }
 
-p {
+#ems p {
   font-size: 1em;
 }
 
-article {
-  font-size: 50px;
+#ems {
+  font-size: 15px;
 }
 
 button {
@@ -37,4 +37,24 @@ button {
   border-radius: 0.5em;
   background-color: #2a9d8f;
   color: white;
+}
+
+ul {
+  font-size: 1.5em;
+}
+
+#rems h2 {
+  font-size: 3rem;
+}
+
+#rems h3 {
+  font-size: 2rem;
+}
+
+#rems ul {
+  font-size: 1.5rem;
+}
+
+#rems button {
+  font-size: 1.5rem;
 }
