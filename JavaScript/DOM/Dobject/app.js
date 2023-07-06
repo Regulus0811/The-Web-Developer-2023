@@ -1,19 +1,20 @@
-// const allImages = document.getElementsByTagName("img");
+// const allLinks = document.querySelectorAll("a");
 
-// for (let img of allImages) {
-//   img.src =
-//     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Silky_bantam.jpg/440px-Silky_bantam.jpg";
+// for (let link of allLinks) {
+//   link.style.color = "#33aaee";
+//   link.style.textDecorationColor = "#ffdd44";
+//   link.style.textDecorationStyle = "wavy";
 // }
 
-// const suqareImages = document.getElementsByClassName("square");
+// const h2 = document.querySelector('h2')
+// h2.setAttribute('class', 'purple')
+// h2.classList.add('purple')
+// h2.classList.toggle('purple')
+// h2.getAttribute('class')
 
-// for (const img of suqareImages) {
-//   img.src =
-//     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Silky_bantam.jpg/440px-Silky_bantam.jpg";
-// }
+// previousElementSibling
+// nextElementSibling
 
-// const links = document.querySelectorAll("p a");
+// const img = document.querySelector("img");
 
-// for (const link of links) {
-//   console.log(link.href);
-// }
+// img.remove();
